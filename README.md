@@ -69,4 +69,5 @@ Inventory & Pricing: The dashboard immediately identifies sub-categories with ne
 Customer Segmentation: Identifying high-value customers like "Harivansh", "Madhav", and "Shiva" allows the business to launch targeted loyalty programs to maximize Customer Lifetime Value (CLV).
 
 6. Screenshots / Demos
+   
 https://github.com/shatansh-arora/E-Commerce-Sales-Dashboard/blob/main/Interactive%20sales%20%20dashboard.png
