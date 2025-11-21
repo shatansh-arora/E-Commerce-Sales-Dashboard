@@ -23,6 +23,7 @@ Source: Internal E-commerce Sales Data (based on the "Madhav Store" client conte
 Data Structure: The data model includes transactional sales records at the order level, linked to dimensions such as Order Date, Customer Details, Product Category/Sub-Category, State/City, and Payment Mode.
 
 5. Features / Highlights
+   
 • Business Problem
 An e-commerce business requires a cohesive way to track its vast number of daily transactions to maintain profitability and optimize operations. Without a central dashboard, owners cannot quickly answer critical questions like: Which months are least profitable?, Which state drives the most revenue?, or Are customers preferring COD or digital payments?
 
@@ -38,6 +39,7 @@ Highlights high-value customers and top-performing product categories.
 Enables swift filtering by time period (Quarter) and location for focused analysis.
 
 • Walkthrough of Key Visuals
+
 Key Performance Indicators (Top Row): Provides the most critical summary metrics:
 
 Sum of Amount: 438K (Total Revenue)
@@ -59,6 +61,7 @@ Sum of Quantity by Payment Mode (Donut Chart): Essential for logistics and finan
 Sum of Profit by Sub-Category (Bar Chart): A detailed view that identifies high-value products like Printers and Bookcases, while also spotlighting sub-categories with negative profit performance (e.g., Trousers, Stole).
 
 • Business Impact & Insights
+
 Marketing Strategy: The high volume in Clothing and COD payments suggests that marketing efforts should focus on low-barrier-to-entry sales channels and potentially target non-metro areas where COD is preferred.
 
 Financial Planning: The negative profit in July and August requires immediate investigation into operational costs, returns, or pricing during those months to prevent future losses.
