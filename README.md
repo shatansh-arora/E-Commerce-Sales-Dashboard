@@ -13,8 +13,6 @@ The dashboard was built using the following tools and technologies, as covered i
 
 📊 Power BI Desktop – Used for visualization, report canvas design, and development.
 
-📂 Power Query (M Language) – Used for data extraction, cleaning, and transformation of the raw sales and order files.
-
 🧠 DAX (Data Analysis Expressions) – Used to create key calculated measures such as Sum of Profit and Sum of AOV (Average Order Value).
 
 ⭐ Data Modeling (Star Schema) – Relationships were established among tables (e.g., separating sales facts from customer or product dimensions) to ensure accurate cross-filtering.
