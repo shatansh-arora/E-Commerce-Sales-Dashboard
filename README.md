@@ -5,9 +5,10 @@
 A dynamic, interactive Power BI solution built to monitor and analyze the sales, profit, and key operational metrics of an online retail business.
 
 2. Short Description / Purpose
+   
 The E-commerce Sales Performance Dashboard is a visually rich and high-impact Power BI report designed to provide the owners and analysts of an online store with a 360-degree view of their business health. The dashboard enables users to quickly identify top-performing products, profitable regions, seasonal trends, and preferred customer payment methods. This tool is essential for data-driven decision-making related to inventory, marketing spend, and product pricing strategy.
 
-3. Tech Stack
+4. Tech Stack
 The dashboard was built using the following tools and technologies, as covered in the tutorial:
 
 📊 Power BI Desktop – Used for visualization, report canvas design, and development.
